@@ -1,1 +1,1 @@
-# Fun-es-Recursivas
+códigos feitos para Avaliação de funções recursivas da disciplina de Resolução de Problemas de Natureza Discreta pelos alunos Pedro Henrique Vargas Navarro, Vitor Coradin Ferreira, Gabriel Augusto Martins de Araújo.
